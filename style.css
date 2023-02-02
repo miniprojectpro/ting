@@ -1,0 +1,40 @@
+.head{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+}
+
+.navbar-brand{
+    font-size: 3rem;
+    font-weight: bold;
+    color: white;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+#title1{
+    background-color:chartreuse
+}
+
+.logo{
+    width: 6%;
+    border-radius: 60%;
+}
+
+.d{
+    width:150px;
+}
+
+.pricing-column{
+    text-align: center;
+}
+
+#testimonial-carousel{
+    background-color:rgb(178, 157, 197);
+    text-align: center;
+    color: white;
+}
+#footer{
+    text-align: center;
+    background-color:rgb(178, 157, 197);
+    padding: 3% 2%;
+}
